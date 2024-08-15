@@ -1,6 +1,7 @@
 # React Front-End Linking to Django Back-End
 
 This project connects a React front-end to a Django back-end to fetch and display registered users. The React app allows you to search for users by their email address.
+The project is to be linked to the django-login system that is in my repositories
 
 ## Features
 
