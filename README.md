@@ -22,5 +22,18 @@ Before you begin, ensure you have met the following requirements:
 ### 1. Clone the Repository
 
 ```bash
-git clone '
-cd <repository_name>
+git clone https://github.com/bilaalk079/front-end-for-django-login-system
+cd my-app
+```
+### 2. Install dependencies
+```bash
+npm install
+```
+### 3. Run the Django server, Ensure php is started in xampp control panel
+### 4. Start the project
+```bash
+npm run dev
+```
+### 5. Access the project "go to http://localhost:5173 on your web browser"
+
+       
