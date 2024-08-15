@@ -1,4 +1,4 @@
-# React + Vite
+# React front-end linking to django backend
 
 This Project is for connecting to the repository i created yesterday
 
