@@ -24,6 +24,7 @@ Before you begin, ensure you have met the following requirements:
 
 ```bash
 git clone https://github.com/bilaalk079/front-end-for-django-login-system
+cd front-end-for-django-login-system
 ```
 ### 2. Install dependencies
 ```bash
